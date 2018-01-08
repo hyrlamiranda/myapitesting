@@ -1,0 +1,15 @@
+{
+  "name": "apitesting",
+  "version": "1.0.0",
+  "main": "example.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hyrla",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^3.21.2"
+  },
+  "devDependencies": {}
+}
